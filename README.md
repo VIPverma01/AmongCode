@@ -44,7 +44,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     git checkout -b <branch-name>
     ```
 
-- Create a folder in [Programs directory](https://github.com/chavarera/python-mini-projects/tree/master/projects) according to issue name.
+- Create a folder in [Programs directory](https://github.com/chavarera/python-mini-projects/tree/master/projects) according to issue name and add your github username in brackets eg. Program_Name(Username).
 - Write your code and add to the respective folder in the Programs directory, locally.
 - Don't forget to add a `README.md` in your folder, according to the [README_TEMPLATE.](https://github.com/VIPverma01/AmongCode/blob/master/README_TEMPLATE.md)
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
