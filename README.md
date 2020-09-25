@@ -8,6 +8,10 @@ A collection of simple programs and projects to enhance your skills.
 
 If you are new to Github and open source then, visit [here.](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
+An issue can be assigned to 3 geeks max, first come first serve.
+
+You have to solve the issue in 15 days from the day issue is assigned to you.
+
 ## Steps To Follow
 
 - Select an issue and ask to be *assigned* to it.
