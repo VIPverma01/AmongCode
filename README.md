@@ -11,7 +11,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 ## Steps To Follow
 
 - Select an issue and ask to be *assigned* to it.
-- Check existing programs [project here.](https://github.com/AdityaJ7/python-mini-projects/tree/master/projects)
+- Check existing programs [here.](https://github.com/VIPverma01/AmongCode/tree/master/Programs)
 - **Star** the repository.
 - On the [GitHub page for this repository](https://github.com/VIPverma01/AmongCode), click on the Button "**Fork**".
    ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
@@ -30,7 +30,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
 
     ```bash
-    git remote add upstream https://github.com/chavarera/python-mini-projects.git
+    git remote add upstream https://github.com/VIPverma01/AmongCode.git
     git fetch upstream
     git pull upstream master
     git push
@@ -45,7 +45,7 @@ If you are new to Github and open source then, visit [here.](https://towardsdata
     ```
 
 - Create a folder in [Programs directory](https://github.com/chavarera/python-mini-projects/tree/master/projects) according to issue name.
-- Write your code and add to the respective folder in the projects directory, locally.
+- Write your code and add to the respective folder in the Programs directory, locally.
 - Don't forget to add a `README.md` in your folder, according to the [README_TEMPLATE.](https://github.com/VIPverma01/AmongCode/blob/master/README_TEMPLATE.md)
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
