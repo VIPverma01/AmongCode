@@ -1,6 +1,6 @@
 # Title
 
-<!--Remove the below lines and add yours -->\
+<!--Remove the below lines and add yours -->
 
 Flappy Bird game
 
@@ -21,3 +21,7 @@ Add a jpeg/png/gif file here.(If possible)
 <!--Remove the below lines and add yours -->
 
 scshiv29-dev
+
+
+## How to run
+[click](howtorun.md)
