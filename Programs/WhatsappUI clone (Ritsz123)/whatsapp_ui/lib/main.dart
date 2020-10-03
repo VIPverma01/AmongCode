@@ -10,6 +10,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Whatsapp Clone',
+      theme: ThemeData.light().copyWith(
+        primaryColor: Colors.teal[800],
+        accentColor: Colors.lightGreenAccent,
+      ),
       home: HomeScreen(),
     );
   }
