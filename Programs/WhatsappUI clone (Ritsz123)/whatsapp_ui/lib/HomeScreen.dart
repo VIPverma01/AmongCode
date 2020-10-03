@@ -44,6 +44,8 @@ class _HomeScreenState extends State<HomeScreen>
         title: Text('Whatsapp'),
         elevation: 0.7,
         bottom: TabBar(
+          indicatorColor: Colors.white,
+          indicatorWeight: 3,
           controller: _tabController,
           tabs: tabs,
         ),
@@ -83,8 +85,8 @@ class _HomeScreenState extends State<HomeScreen>
         children: [
           CameraScreen(),
           ChatScreen(),
-          CallsScreen(),
           StatusScreen(),
+          CallsScreen(),
         ],
       ),
     );

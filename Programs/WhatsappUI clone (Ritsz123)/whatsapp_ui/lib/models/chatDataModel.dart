@@ -13,7 +13,7 @@ List<ChatModel> data = [
     message: 'I love Flutter..',
     time: '3:05 pm',
     avatar:
-        'https://cdn.stocksnap.io/img-thumbs/960w/confident-business_XWRQJZ413Y.jpg',
+        'https://images.unsplash.com/photo-1504593811423-6dd665756598?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80',
   ),
   ChatModel(
     name: 'Anthony Slaughter',
@@ -27,6 +27,6 @@ List<ChatModel> data = [
     message: 'see you soon.',
     time: 'yesterday',
     avatar:
-        'https://cdn.stocksnap.io/img-thumbs/960w/confident-business_XWRQJZ413Y.jpg',
+        'https://images.unsplash.com/photo-1512663150964-d8f43c899f76?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=856&q=80',
   ),
 ];

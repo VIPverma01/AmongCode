@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Whatsapp Clone',
       theme: ThemeData.light().copyWith(
         primaryColor: Colors.teal[800],
-        accentColor: Colors.lightGreenAccent,
+        accentColor: Colors.lightGreen,
       ),
       home: HomeScreen(),
     );
