@@ -7,4 +7,6 @@ Yes, I know you all have played the Snake Game and definitely, you never wanted 
 
 The first thing you will need to do in order to create games using Pygame is to install it on your systems. To do that, you can simply use the following command:
 
+```bash
 pip install pygame
+```
